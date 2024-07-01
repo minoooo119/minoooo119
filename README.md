@@ -1,5 +1,6 @@
 ## 👋 Lee Minho 👋
 <div>
+<div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=default"/>
 
@@ -17,6 +18,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={mino0119})](https://solved.ac/{mino0119})
 </div>
+</div>
+
 <!--
 **minoooo119/minoooo119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
