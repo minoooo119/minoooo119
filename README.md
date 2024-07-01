@@ -4,8 +4,8 @@
    <div style="flex: 1;">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=default"/>
-  
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=default"/>
+
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/표시할_텍스트-색상코드?style=flat-square&logo=simpleicons_로고_이름&logoColor=default"/>
   
