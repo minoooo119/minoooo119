@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![minoooo119's GitHub stats](https://github-readme-stats.vercel.app/api?username=minoooo119&show_icons=true&theme=dark)   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={mino0119})](https://solved.ac/{mino0119})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={MINO})](https://solved.ac/{MINO})
 
