@@ -3,11 +3,11 @@
 
    <div style="flex: 1;">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=whdefaultite"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=default"/>
   <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=default"/>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=default"/>
   
-  <img src="https://img.shields.io/badge/표시할_텍스트-색상코드?style=flat-square&logo=simpleicons_로고_이름&logoColor=whdefaultite"/>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminoooo119&count_bg=%2359DFBA&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   </div>
