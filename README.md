@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/#E34F26?style=flat-square&logo=html5&logoColor=default"/>
 
-<img src="https://img.shields.io/badge/표시할_텍스트-색상코드?style=flat-square&logo=simpleicons_로고_이름&logoColor=default"/>
+<img src="https://img.shields.io/badge/#00599C?style=flat-square&logo=cplusplus&logoColor=default"/>
 
 <img src="https://img.shields.io/badge/표시할_텍스트-색상코드?style=flat-square&logo=simpleicons_로고_이름&logoColor=default"/>
 
