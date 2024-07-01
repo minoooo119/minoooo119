@@ -1,4 +1,4 @@
-##👋 Lee Minho 👋
+## 👋 Lee Minho 👋
 
 <!--
 **minoooo119/minoooo119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
