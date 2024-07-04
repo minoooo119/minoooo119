@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=default"/>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
 </div>
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minoooo119)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=minooooo119&theme=dark)](https://git.io/streak-stats)
       
   ![minoooo119's GitHub stats](https://github-readme-stats.vercel.app/api?username=minoooo119&show_icons=true&theme=dark)   
   [![Solved.ac
