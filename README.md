@@ -23,7 +23,7 @@
   
   ### 👨‍💻 My PS
   <a href="https://github.com/minoooo119/minoBacekjoon">
-    <img src="https://img.shields.io/badge/to_mino's_git_ps_page-F05032?style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/to_mino's_git_ps_page-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://spangled-radio-c09.notion.site/Problem-Solving-fe46176cacbc4552ad7f9c59609366d3?pvs=74">
   <img src="https://img.shields.io/badge/to_mino's_notion_ps_page-000000?style=flat-square&logo=notion&color=black"/>
