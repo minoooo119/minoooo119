@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=minooooo119&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=minoooo119&theme=dark)](https://git.io/streak-stats)
+
       
   ![minoooo119's GitHub stats](https://github-readme-stats.vercel.app/api?username=minoooo119&show_icons=true&theme=dark)   
   [![Solved.ac
