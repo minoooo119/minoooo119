@@ -18,7 +18,9 @@
   <div>
     <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&color=black"/>
+    <a href="https://spangled-radio-c09.notion.site/Problem-Solving-fe46176cacbc4552ad7f9c59609366d3?pvs=74">
     <img src="https://img.shields.io/badge/notion_ps_page-000000?style=flat-square&logo=notion&color=black"/>
+    </a>
   </div>
   <br><br>
   ### 👨‍💻 My PS
