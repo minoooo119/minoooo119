@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
   </div>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=minoooo119&theme=dark)](https://git.io/streak-stats)
-  ![minoooo119's GitHub stats](https://github-readme-stats.vercel.app/api?username=minoooo119&show_icons=true&theme=dark)   
+  ![minoooo119's GitHub stats](https://github-readme-stats.vercel.app/api?username=minoooo119&show_icons=true&theme=white)   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mino0119)](https://solved.ac/mino0119)
 </div>
