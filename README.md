@@ -14,6 +14,6 @@
   </div>
   <br><br>
   
-  ### My PS
+  ### 👨‍💻 My PS
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mino0119)](https://solved.ac/mino0119)
 </div>
