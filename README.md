@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=default"/>
     <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
   </div>
+  <br><br>
   
   ![minoooo119's GitHub stats](https://github-readme-stats.vercel.app/api?username=minoooo119&show_icons=true&theme=white)   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mino0119)](https://solved.ac/mino0119)
