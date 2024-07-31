@@ -32,4 +32,5 @@
   </a>
     
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mino0119)](https://solved.ac/mino0119)
+  [![코드트리|실력진단-minoth0119](https://banner.codetree.ai/v1/banner/minoth0119)](https://www.codetree.ai/profiles/minoth0119)
 </div>
